@@ -46,7 +46,7 @@ task-manager-app/
 If hosted on Vercel/Render:
 
 🔗 [Live Demo](https://your-app.vercel.app)
-![Task List](./screenshots/task-list.png)
+![Task List](./TaskManagement.png)
 
 ## 🚀 Getting Started
 
